@@ -1,0 +1,54 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+
+# Hugo temporary files
+.hugo_build.lock
+hugo_stats.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional node modules and package lock files
+node_modules/
+/package-lock.json
+/.cache/
+
+# VS Code workspace files
+.vscode/
+.idea/
+
+# Hugo specific output files
+hugo*.log
+hugo_cache/
+
+# Optional output directories for Hugo
+*.toml.lock
+
+# Go binaries and build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.mod
+*.sum
+
+# Go workspace files
+go.sum
+vendor/
