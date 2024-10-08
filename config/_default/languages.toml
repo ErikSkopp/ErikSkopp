@@ -1,0 +1,9 @@
+[de]
+  title = "Erik Skopp"
+  LanguageName = "Deutsch"
+  weight = 1
+
+[en]
+  title = "Erik Skopp"
+  LanguageName = "English"
+  weight = 2

@@ -3,7 +3,7 @@ name: Mirror GitHub to GitLab
 on:
   push:
     branches:
-      - main # Adjust to the branches you want to sync
+      - main 
 
 jobs:
   sync:

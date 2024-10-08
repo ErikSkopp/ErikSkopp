@@ -1,0 +1,26 @@
+# if you set it to "/" share icons won't work properly on production
+baseurl = "https://erik-skopp.de/"  # Include trailing slash
+title = "Erik Skopp"  
+copyright = "Copyright © 2024, Erik Skopp; all rights reserved."
+# canonifyurls = true
+
+theme = "hugo-clarity"
+#theme = ["github.com/chipzoller/hugo-clarity"]
+
+DefaultContentLanguage = "de"
+# [languages]
+# config/_default/languages.toml
+
+# [menus]
+# config/_default/menus/menu.xx.toml
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+  pagerSize = 10
