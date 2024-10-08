@@ -20,6 +20,15 @@
   <head>
     {{- partial "head" . }}
     {{- partial "hooks/head-end" . }}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHSJV3N7TK"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-XHSJV3N7TK');
+    </script>
   </head>
   <body
     data-code="{{ $codeBlockConfig.max }}"
