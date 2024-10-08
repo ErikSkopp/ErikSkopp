@@ -8,6 +8,11 @@
   url = "post/rich-content/"
   weight = -109
 
+[[main]]
+  name = "Mathematik"
+  url = "https://erik-skopp.de/tags/emoji/"
+  weight = -1
+
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Links"
