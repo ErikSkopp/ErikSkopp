@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Mathematik"
-  url = "https://erik-skopp.de/tags/emoji/"
+  url = "https://erik-skopp.de/categories/mathematik/"
   weight = -1
 
 # Submenus are done this way: parent -> identifier
