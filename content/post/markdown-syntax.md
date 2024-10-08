@@ -13,6 +13,7 @@ tags = [
 ]
 categories = [
     "themes",
+    "mathematik",
     "syntax",
 ]
 series = ["Themes Guide"]
