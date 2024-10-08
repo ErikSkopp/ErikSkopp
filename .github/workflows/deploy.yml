@@ -16,7 +16,7 @@ jobs:
       - name: Install Node.js (npm)
         uses: actions/setup-node@v3
         with:
-          node-version: "lts/*"
+          node-version: "latest"
 
       - name: Install Go
         uses: actions/setup-go@v4
