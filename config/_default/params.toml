@@ -89,17 +89,17 @@ enforceLightMode = true
 # footerLogo = "icons/copy.svg"
 
 # Customize Sidebar Disclaimer Text
-# sidebardisclaimer = true
+sidebardisclaimer = false
 # disclaimerText = "The opinions expressed on this site are my own personal opinions and do not represent my employer’s view in any way."
 
 # Text for the languages menu.
 languageMenuName = "🌐"
 
 # Title separator, default to |.
-# titleSeparator = "|"
+ titleSeparator = "|"
 
 # Enable or disable comments globally. Default to true.
-# comments = false
+comments = false
 
 # Activate meta ld+json for blog
 blogDir = "post"
